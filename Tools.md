@@ -31,7 +31,7 @@
 - https://www.php.net/
 - Resources: https://www.w3schools.com/php/
 
-### Create your personal web site
+### Create your personal website
 - PHP - .php filenames - https://www.w3schools.com/php/
 - HTML, CSS, Javascript - https://www.w3schools.com/w3css/default.asp
 - Designs - https://www.w3schools.com/w3css/w3css_templates.asp

@@ -14,3 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Tools 
 - Please see `Tools.md` file.
+
+### 1st Practical Experience
+- Create personal website (example): https://github.com/moderna-bg-ltd/personal-website
+
+### Requirements
+- Personal email.
+- Registration on Github.com and send your email address to us.
+- Registration on Drupal.org and add "MODERNA BG LTD" (moderna-bg-ltd) as your Work >> Organization.
