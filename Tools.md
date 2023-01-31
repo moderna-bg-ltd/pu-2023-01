@@ -12,4 +12,4 @@
 - Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - Generate SSH key: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 - Start SSH agent: eval `"$(ssh-agent -s)"`
-= Add your personal SSH key: `ssh-add ~/.ssh/id_your_personal_ssh`
+- Add your personal SSH key: `ssh-add ~/.ssh/id_your_personal_ssh`
