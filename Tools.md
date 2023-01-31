@@ -14,6 +14,7 @@
 - Windows - Wamp64 (64bit): https://www.wampserver.com/en/download-wampserver-64bits/
 - MacOS - Mamp64.
 - Linux - integrated.
+- Docker - Linux Containers: https://www.docker.com/
 
 ### Personal SSH key
 - Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
@@ -25,3 +26,7 @@
 - PhpStorm (trial, paid): https://www.jetbrains.com/phpstorm/
 - Notepad++
 - Comodo, Netbeans, Eclipse, VS Code.
+
+### PHP
+- https://www.php.net/
+- Resources: https://www.w3schools.com/php/
