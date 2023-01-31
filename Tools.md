@@ -3,6 +3,7 @@
 ### Git
 - Install https://git-scm.com/downloads
 - Windows - Git Bash (console).
+- Windows console commands: https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows
 
 #### Git commands
 - `git clone <repository_address> .` (current folder)
@@ -19,3 +20,8 @@
 - Generate SSH key: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 - Start SSH agent: `eval "$(ssh-agent -s)"`
 - Add your personal SSH key: `ssh-add ~/.ssh/id_your_personal_ssh`
+
+### PHP Development IDE
+- PhpStorm (trial, paid): https://www.jetbrains.com/phpstorm/
+- Notepad++
+- Comodo, Netbeans, Eclipse, VS Code.
