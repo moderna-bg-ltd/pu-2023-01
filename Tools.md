@@ -7,6 +7,7 @@
 #### Git commands
 - `git clone <repository_address> .` (current folder)
 - `git clone <repository_address> <folder_name>` (clone repo into folder)
+- Learn Git: https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 ### Local Dev server
 - Windows - Wamp64 (64bit): https://www.wampserver.com/en/download-wampserver-64bits/
