@@ -2,6 +2,10 @@
 
 ### Git
 - Install https://git-scm.com/downloads
+- Windows - Git Bash (console).
+
+#### Git commands
+- `git clone <repository_address>`
 
 ### Local Dev server
 - Windows - Wamp64 (64bit): https://www.wampserver.com/en/download-wampserver-64bits/
