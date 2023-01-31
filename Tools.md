@@ -30,3 +30,9 @@
 ### PHP
 - https://www.php.net/
 - Resources: https://www.w3schools.com/php/
+
+### Create your personal web site
+- PHP - .php filenames - https://www.w3schools.com/php/
+- HTML, CSS, Javascript - https://www.w3schools.com/w3css/default.asp
+- Design - https://www.w3schools.com/w3css/w3css_templates.asp
+- Free hosting (web server) for your personal web site: https://www.000webhost.com/free-php-hosting
