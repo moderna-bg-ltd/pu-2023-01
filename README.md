@@ -12,13 +12,20 @@ moderna-bg-ltd/pu-2023-01 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+### Requirements
+- Please use a personal email.
+- Register on Github.com and send your email address to us.
+- Register on Drupal.org and add "MODERNA BG LTD" (moderna-bg-ltd) as your Work >> Organization.
+
 ### Tools 
 - Please see `Tools.md` file.
 
 ### 1st Practical Experience
 - Create personal website (example): https://github.com/moderna-bg-ltd/personal-website
 
-### Requirements
-- Personal email.
-- Registration on Github.com and send your email address to us.
-- Registration on Drupal.org and add "MODERNA BG LTD" (moderna-bg-ltd) as your Work >> Organization.
+### 2nd Practical Experience
+- Create simple Login & Register system in PHP & MySQL database.
+ 
+#### Resources / Learning materials
+- Secure Login System with PHP and MySQL (example): https://codeshack.io/secure-login-system-php-mysql/
+- Secure Registration System with PHP and MySQL (example): https://codeshack.io/secure-registration-system-php-mysql/
