@@ -76,8 +76,9 @@
 - Install Docker Desktop: https://docs.docker.com/engine/install/
 
 #### Ready for use PHP docker images:
-- Docker LEMP stack (Nginx, MariaDB, PHP): https://linuxiac.com/how-to-set-up-lemp-stack-with-docker-compose/
+- Docker LAMP (Linux, Apache, MySQL and PHP) stack: https://hub.docker.com/r/mattrayner/lamp
+- Docker LEMP (Linux, Nginx, MariaDB, PHP) stack: https://linuxiac.com/how-to-set-up-lemp-stack-with-docker-compose/
 - Docksal: https://docksal.io/
 - DDEV: https://ddev.readthedocs.io/en/stable/
 - Lando: https://lando.dev/
-- Docker4PHP, Docker4Drupal: https://github.com/wodby/docker4php
+- Docker4PHP, Docker4Drupal: https://github.com/wodby/
