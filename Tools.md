@@ -45,7 +45,7 @@
 - HTML, CSS, Javascript - https://www.w3schools.com/w3css/default.asp
 - Designs - https://www.w3schools.com/w3css/w3css_templates.asp
 - Free hosting (web server) for your personal web site: https://www.000webhost.com/free-php-hosting
-- Repository: https://github.com/moderna-bg-ltd/personal-website
+- Repository (+ live example): https://github.com/moderna-bg-ltd/personal-website
 
 ### Composer (PHP Libraries)
 - Install (windows, macos, linux): https://getcomposer.org/download/
