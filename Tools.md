@@ -24,19 +24,21 @@
 - Docker - Linux Containers: https://www.docker.com/
 
 ### Personal SSH key
+- SSH protocol (file transfers): https://www.ssh.com/academy/ssh/protocol
+- SSH commands: https://www.hostinger.com/tutorials/ssh/basic-ssh-commands
 - Resource: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-- Generate SSH key: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+- Generate SSH key: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`.
 - Start SSH agent: `eval "$(ssh-agent -s)"`
-- Add your personal SSH key: `ssh-add ~/.ssh/id_your_personal_ssh`
+- Add your personal SSH key: `ssh-add ~/.ssh/id_your_private_ssh_key`
 
 ### PHP Development IDE
 - PhpStorm (trial, paid): https://www.jetbrains.com/phpstorm/
-- Notepad++
-- Comodo, Netbeans, Eclipse, VS Code.
+- Notepad++, other text editors.
+- Comodo, Netbeans, Eclipse, Visual Studio Code (VS Code), etc.
 
 ### PHP
 - https://www.php.net/
-- Resources: https://www.w3schools.com/php/
+- Learning resources: https://www.w3schools.com/php/
 
 ### Create your personal website
 - PHP - .php filenames - https://www.w3schools.com/php/
