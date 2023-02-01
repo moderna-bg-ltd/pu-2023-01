@@ -39,6 +39,7 @@
 ### PHP
 - https://www.php.net/
 - Learning resources: https://www.w3schools.com/php/
+- PHP tutorial list: https://kinsta.com/blog/php-tutorials/
 
 ### Create your personal website
 - PHP - .php filenames - https://www.w3schools.com/php/
@@ -58,3 +59,25 @@
 - Documentation: https://symfony.com/doc/current/index.html
 - Symfony Video Tutorials: https://symfonycasts.com/
 - Twig templating system: https://twig.symfony.com/
+
+### Database and other related servers
+- In house supported by PHP databases: https://www.php.net/manual/en/refs.database.php
+- MySQL: https://www.mysql.com/
+- MariaDB: https://mariadb.org/
+- PostgreSQL: https://www.postgresql.org/
+- Apache Solr: https://solr.apache.org/
+- Cache servers: https://dev.to/he110/boosting-up-php-project-with-cache-16hi
+- Redis: https://redis.io/
+- MS SQL: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+- MongoDB: https://www.mongodb.com/
+
+### Docker 
+- https://www.docker.com/
+- Install Docker Desktop: https://docs.docker.com/engine/install/
+
+#### Ready for use PHP docker images:
+- Docker LEMP stack (Nginx, MariaDB, PHP): https://linuxiac.com/how-to-set-up-lemp-stack-with-docker-compose/
+- Docksal: https://docksal.io/
+- DDEV: https://ddev.readthedocs.io/en/stable/
+- Lando: https://lando.dev/
+- Docker4PHP, Docker4Drupal: https://github.com/wodby/docker4php
