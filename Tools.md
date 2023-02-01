@@ -10,6 +10,13 @@
 - `git clone <repository_address> <folder_name>` (clone repo into folder)
 - Learn Git: https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
+#### Git Servers
+- Local Git usage.
+- Github
+- Gitlab
+- Bitbucket
+- Other Git servers.
+
 ### Local Dev server
 - Windows - Wamp64 (64bit): https://www.wampserver.com/en/download-wampserver-64bits/
 - MacOS - Mamp64.
@@ -37,3 +44,15 @@
 - Designs - https://www.w3schools.com/w3css/w3css_templates.asp
 - Free hosting (web server) for your personal web site: https://www.000webhost.com/free-php-hosting
 - Repository: https://github.com/moderna-bg-ltd/personal-website
+
+### Composer (PHP Libraries)
+- Install (windows, macos, linux): https://getcomposer.org/download/
+- Usage: https://getcomposer.org/
+- PHP packages: https://packagist.org/
+
+### Symfony PHP Framework
+- Source: https://symfony.com/
+- Composer, Symfony CLI, Symfony console.
+- Documentation: https://symfony.com/doc/current/index.html
+- Symfony Video Tutorials: https://symfonycasts.com/
+- Twig templating system: https://twig.symfony.com/
