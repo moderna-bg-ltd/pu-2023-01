@@ -21,11 +21,12 @@ You can click the Preview link to take a look at your changes.
 - Please see `Tools.md` file.
 
 ### 1st Practical Experience
-- Create personal website (example): https://github.com/moderna-bg-ltd/personal-website
+- Info: https://github.com/moderna-bg-ltd/pu-2023-01/blob/main/Tools.md#create-your-personal-website
+- Create your personal website (live example): https://github.com/moderna-bg-ltd/personal-website
 
 ### 2nd Practical Experience
-- Create simple Login & Register system in PHP & MySQL database.
+- Create simple Login & Register system in PHP & MySQL database with tutorials.
  
-#### Resources / Learning materials
+#### Resources / Learning materials:
 - Secure Login System with PHP and MySQL (example): https://codeshack.io/secure-login-system-php-mysql/
 - Secure Registration System with PHP and MySQL (example): https://codeshack.io/secure-registration-system-php-mysql/
