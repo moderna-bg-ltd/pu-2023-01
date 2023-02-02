@@ -26,6 +26,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 2nd Practical Experience
 - Create simple Login & Register system in PHP & MySQL database with tutorials.
+
+### 3rd Practical Experience
+- Setup and work on Docker Desktop + Docksal + Drupal (locally). 
  
 #### Resources / Learning materials:
 - Secure Login System with PHP and MySQL (example): https://codeshack.io/secure-login-system-php-mysql/
