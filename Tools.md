@@ -82,3 +82,8 @@
 - DDEV: https://ddev.readthedocs.io/en/stable/
 - Lando: https://lando.dev/
 - Docker4PHP, Docker4Drupal: https://github.com/wodby/
+
+### Local Drupal 9 on Docksal (Docker Desktop)
+- Install Docker Desktop & Docksal - https://docksal.io/installation#windows-docker-desktop
+- Get (clone) the Docksal Ddrupal 9 repo - https://github.com/docksal/boilerplate-drupal9-composer
+- Run the Web Application smoothly.
